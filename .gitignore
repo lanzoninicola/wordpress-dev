@@ -1,0 +1,16 @@
+
+wordpress-dev/
+
+# Casa da Telha
+casa-da-telha/*
+!casa-da-telha/plugins
+
+casa-da-telha/plugins/*
+!casa-da-telha/plugins/webigo-custom-wpadmin-menu
+
+# Bellas Boutique
+bellas-boutique/*
+!bellas-boutique/plugins
+
+bellas-boutique/plugins/*
+!bellas-boutique/plugins/webigo-custom-wpadmin-menu
