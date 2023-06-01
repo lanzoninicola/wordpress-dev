@@ -14,3 +14,5 @@ casa-da-telha/plugins/*
 
 bellas-boutique/plugins/*
 !bellas-boutique/plugins/webigo-custom-wpadmin-menu
+
+casa-da-telha/themes/
